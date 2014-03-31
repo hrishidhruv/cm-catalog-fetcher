@@ -1,0 +1,12 @@
+{
+	"id": "/categories/1",
+	"name": "chairs",
+	"client": "/clients/1",
+	"products": [
+		"/products/1",
+		"/products/2",
+		"/products/3",
+		"/products/4",
+		"/products/5"
+	]
+}
